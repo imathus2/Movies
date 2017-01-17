@@ -244,7 +244,8 @@ page_content = '''
 movie_tile_content='''
 <div class="movie-tile col-md-6 col-lg-6">
                 <div class="poster-wrapper">
-                    <a class="showTrailer" data-toggle='modal' data-target='#trailer' data-dismiss='modal' data-trailer-youtube-id="{trailer_youtube_id}">
+                    <a class="showTrailer" data-toggle='modal' data-target='#trailer' 
+                    data-dismiss='modal' data-trailer-youtube-id="{trailer_youtube_id}">
                         <img src="{poster_image_url}" alt="poster" class="poster"/>
                     </a>
                 </div>
@@ -274,7 +275,8 @@ movie_tile_content='''
                         </tr>
                     </table>
                     <div class="action-center">
-                        <a class="action-btn showTrailer" data-toggle='modal' data-target='#trailer' data-dismiss='modal' data-trailer-youtube-id="{trailer_youtube_id}">
+                        <a class="action-btn showTrailer" data-toggle='modal' data-target='#trailer' 
+                        data-dismiss='modal' data-trailer-youtube-id="{trailer_youtube_id}">
                         <span class="glyphicon glyphicon-play-circle" aria-hidden="true"></span> Watch Trailer</a>
                     </div>
                 </div>
