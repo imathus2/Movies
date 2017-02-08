@@ -1,6 +1,6 @@
 #Trailer Library
 
-Trailer Library is a movie website project to create 
+Trailer Library is a movie website project.
 
 ## Getting Started
 
